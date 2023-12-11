@@ -34,3 +34,42 @@
   border-radius: 30px;
   cursor: pointer;
 }
+
+.weather-image{
+    margin-top: 29px;
+}
+
+.weather-temp{
+  color: white;
+  font-size: 120px;
+}
+
+.weather-location{
+  color: white;
+  font-size: 60px;
+}
+
+.data-container{
+  margin-top: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.element{
+   margin: auto;
+   gap:12px;
+   display: flex;
+}
+
+.data{
+  font-size: 34px;
+}
+
+.text{
+  font-size: 20px;
+}
+
+.icon{
+  margin-top: 10px;
+}

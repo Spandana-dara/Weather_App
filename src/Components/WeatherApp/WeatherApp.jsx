@@ -21,7 +21,7 @@ function WeatherApp() {
       <div className="weather-image">
         <img src={cloud_icon}></img>
       </div>
-      <div className="weather-temp">24C</div>
+      <div className="weather-temp">24c</div>
       <div className="weather-location">London</div>
       <div className="data-container">
         <div className="element">
