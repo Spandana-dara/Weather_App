@@ -66,7 +66,7 @@ function WeatherApp() {
       <div className="weather-image">
         <img src={wicon}></img>
       </div>
-      <div className="weather-temp">24c</div>
+      <div className="weather-temp">24 &deg;c</div>
       <div className="weather-location">London</div>
       <div className="data-container">
         <div className="element">
@@ -79,7 +79,7 @@ function WeatherApp() {
         <div className="element">
           <img src={wind_icon} alt="" className="icon" />
           <div className="data">
-            <div className="wind-speed">18km/hr</div>
+            <div className="wind-speed">18 km/hr</div>
             <div className="text">Wind Speed</div>
           </div>
         </div>
