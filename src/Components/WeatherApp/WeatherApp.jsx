@@ -72,7 +72,7 @@ function WeatherApp() {
         <div className="element">
           <img src={humidity_icon} alt="" className="icon" />
           <div className="data">
-            <div className="humidity-percent">64%</div>
+            <div className="humidity-percent">63%</div>
             <div className="text">Humidity</div>
           </div>
         </div>
